@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UsNews</string>
+    <string name="apiKEY">2c1bb6e6b5c2402087e22dd2ac49e39b</string>
+    <string name="sport">sport</string>
+    <string name="business">business</string>
+    <string name="sport_tab">Sport</string>
+    <string name="business_tab">Business</string>
+    <string name="all">All</string>
+    <string name="downloading_in_progress_message">Loading in progress...</string>
+    <string name="downloading_failed_message">Downloading failed</string>
+    <string name="default_country">us</string>
+    <string name="published_at">Published At:</string>
+</resources>
